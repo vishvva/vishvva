@@ -7,5 +7,5 @@ Data analysis and visualization
 Open-source contributions in data science and AI
 Real-world problem-solving using data**
 Connect me through: vdshahh09@gmail.com
-                    https://www.linkedin.com/in/vdshah81/
+                   https://www.linkedin.com/in/vdshahh16/
                     
