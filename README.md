@@ -1,5 +1,5 @@
 Hi! I'm Vishva Shah
-My goal is to continuously grow my skills in data science, machine learning, and analytics to solve real-world problems.
+My goal is to continuously grow my skills in Data science, Business Analytics, Business Intelligence and  Data analytics to solve real-world problems.
 I'm currently diving into projects that involve predictive analytics, natural language processing, and advanced data visualization. Also enhancing my expertise in Python, R, SQL, and tools like Power BI.
 Collaboration: I'm excited to collaborate on innovative data-driven projects, particularly those involving:
 **Predictive modeling and machine learning
